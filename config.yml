@@ -1,0 +1,8 @@
+taxAmount: 5
+grantAmount: 2
+railIDs:
+  - 27
+  - 28
+  - 66
+stNotEnoughExpToPlace: "&7You do not have enough experience points to place that track."
+stNotEnoughExpToBreak: "&7You do not have enough experience points to break that track."
